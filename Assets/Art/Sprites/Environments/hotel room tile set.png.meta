@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 7749fe6e62342ad449a2d7592d821d0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1610899719450163577
+    second: hotel room tile set_0
+  - first:
+      213: -7337896351711667487
+    second: hotel room tile set_1
+  - first:
+      213: 56508355938384549
+    second: hotel room tile set_2
+  - first:
+      213: -7347810932667006130
+    second: hotel room tile set_3
+  - first:
+      213: 8248959905197501961
+    second: hotel room tile set_4
+  - first:
+      213: -8451565866333989974
+    second: hotel room tile set_5
+  - first:
+      213: -3777864405405260718
+    second: hotel room tile set_6
+  - first:
+      213: -1717976059101989215
+    second: hotel room tile set_7
+  - first:
+      213: -5202660435476624053
+    second: hotel room tile set_8
+  - first:
+      213: 4073639785192620648
+    second: hotel room tile set_9
+  - first:
+      213: -7749562039008661312
+    second: hotel room tile set_10
+  - first:
+      213: 302886831414007504
+    second: hotel room tile set_11
+  - first:
+      213: -7670604477384360088
+    second: hotel room tile set_12
+  - first:
+      213: 5547402864054280693
+    second: hotel room tile set_13
+  - first:
+      213: -2714532926314605719
+    second: hotel room tile set_14
+  - first:
+      213: 5418042517161028211
+    second: hotel room tile set_15
+  - first:
+      213: 471961501447541208
+    second: hotel room tile set_16
+  - first:
+      213: 8623276284133357262
+    second: hotel room tile set_17
+  - first:
+      213: -7689317396220654264
+    second: hotel room tile set_18
+  - first:
+      213: 8472823898638046163
+    second: hotel room tile set_19
+  - first:
+      213: -2332547042477939825
+    second: hotel room tile set_20
+  - first:
+      213: 911635144390031375
+    second: hotel room tile set_21
+  - first:
+      213: -4710279839129397420
+    second: hotel room tile set_22
+  - first:
+      213: -1067521701506662656
+    second: hotel room tile set_23
+  - first:
+      213: -5327750847385329129
+    second: hotel room tile set_24
+  - first:
+      213: 3532212577792403193
+    second: hotel room tile set_25
+  - first:
+      213: -2470011278110613691
+    second: hotel room tile set_26
+  - first:
+      213: 680300675275997664
+    second: hotel room tile set_27
+  - first:
+      213: -4031741774952084595
+    second: hotel room tile set_28
+  - first:
+      213: 2123902980175083393
+    second: hotel room tile set_29
+  - first:
+      213: -3668550983533182578
+    second: hotel room tile set_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hotel room tile set_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78685657d3fe4a9e0800000000000000
+      internalID: -1610899719450163577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea579d552e8a2a90800000000000000
+      internalID: -7337896351711667487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa7c82ec02c8c000800000000000000
+      internalID: 56508355938384549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c6a913e4570a90800000000000000
+      internalID: -7347810932667006130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eacb334513a7270800000000000000
+      internalID: 8248959905197501961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa398557f9106ba80800000000000000
+      internalID: -8451565866333989974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2542a3ad654529bc0800000000000000
+      internalID: -3777864405405260718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6b99060e58828e0800000000000000
+      internalID: -1717976059101989215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dcf6816ef6cc7b0800000000000000
+      internalID: -5202660435476624053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8620e433dc9788830800000000000000
+      internalID: 4073639785192620648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0790c6266047490800000000000000
+      internalID: -7749562039008661312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65399e7f1143400800000000000000
+      internalID: 302886831414007504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ffbf05ed98c8590800000000000000
+      internalID: -7670604477384360088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1a0f173855cfc40800000000000000
+      internalID: 5547402864054280693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_14
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9639aeb8faa045ad0800000000000000
+      internalID: -2714532926314605719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa85d96f0c03b40800000000000000
+      internalID: 5418042517161028211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d0792c7ebc8600800000000000000
+      internalID: 471961501447541208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b1d3a7180ca770800000000000000
+      internalID: 8623276284133357262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d4901619e0a4590800000000000000
+      internalID: -7689317396220654264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d2c2e174859570800000000000000
+      internalID: 8472823898638046163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83e63fb2d021afd0800000000000000
+      internalID: -2332547042477939825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_21
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0831227557c6ac00800000000000000
+      internalID: 911635144390031375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45712044179b1aeb0800000000000000
+      internalID: -4710279839129397420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fbcaf1ba66f21f0800000000000000
+      internalID: -1067521701506662656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712afc9f4d60016b0800000000000000
+      internalID: -5327750847385329129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6ab7200a0f40130800000000000000
+      internalID: 3532212577792403193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f120944d1c8bdd0800000000000000
+      internalID: -2470011278110613691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c84a1cd9e07900800000000000000
+      internalID: 680300675275997664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bc0ed77306c08c0800000000000000
+      internalID: -4031741774952084595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187babee18e997d10800000000000000
+      internalID: 2123902980175083393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hotel room tile set_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81481a3150b61dc0800000000000000
+      internalID: -3668550983533182578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
