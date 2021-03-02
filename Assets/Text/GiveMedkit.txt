@@ -10,8 +10,10 @@ Pilot: Nothing, I thought I told you to leave.
 NPC: I saw you were hurt, so I figured you’d need this.
 Pilot: you didn’t have to but thanks anyways. 
 Pilot: Here take this radio. 
-Pilot: The fight is still close, I’ll contact you if anything happens. 
-Pilot: Consider it a thank you. 
+Pilot: The fight is still close, I’ll contact you if anything happens.
+Pilot: It looks like there's rubble blocking the way down
+Pilot: Lemme give you a lift, consider it a thank you. 
 NPC: Right! Thanks…uh...?
 Pilot: Ruby.
-NPC: right, ruby.
+NPC: Right, ruby.
+Ruby: It looks like there's rubble blocking the way down.

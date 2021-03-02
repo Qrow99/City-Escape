@@ -3,7 +3,7 @@ Voice: HEY YOU get over here!
 To talk to people and objects, approach them and press the spacebar.
 
 Angry Girl: A civvie? Dammit I thought the transports left hours ago.
-Angry Girl: the hell are you still doin’ here?
+Angry Girl: The hell are you still doin’ here?
 ???: Ah please don't hurt me! I’m just a local tour guide! Don’t shoot me! Please! 
 ???: My name’s Nathan Parks Charlamenge! I’m 27! My social security number is 18-
 Angry Girl: Arghh, will ya shut up! I'm not here to fight ‘people’. 
@@ -18,8 +18,7 @@ Robotic voice: 55.89 stories to be precise.
 Angry Girl: Not in the mood toaster. How much time until systems are functional?
 Toaster: Systems will be fully operational in five minutes Pilot. 
 Toaster: Do not rush back into the fight before you are healed.
-Pilot: Well civvie whatever you do, if you don’t wanna die
-Pilot: you should go do it somewhere else.
+Pilot: Well civvie, if you don’t wanna die, you should get goin’.
 NPC: Yeah ok, but you look pretty hurt, do you need help?
 Pilot: Im fine, just get outta here before things get worse.
 Pilot: I'm gonna take a short breather.

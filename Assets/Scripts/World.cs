@@ -5,6 +5,7 @@ using UnityEngine;
 public class World : MonoBehaviour
 {
     public Transform player;
+    public bool wiresused = false;
     // Use this for initialization
     void Start()
     {
@@ -13,5 +14,4 @@ public class World : MonoBehaviour
             player.position = new Vector2(6f, 1.0f);
         }
     }
-
 }

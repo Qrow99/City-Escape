@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Dog room.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Wiring Puzzle.unity
+    guid: c6e237c1e9456e2478489dd8e46a466b
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: 538a4198691b76448bfb25ed216859eb
   m_configObjects: {}

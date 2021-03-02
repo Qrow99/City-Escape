@@ -3,15 +3,15 @@ NPC: H-hello? Does this radio even work?
 *BOOM*
 Ruby: What is it NPC? My machine’s kinda got its hands full.
 NPC: Uh the powers out down here.
-Ruby: Oh c’mon! There's 56 stories of rage destroying the city 
+Ruby: Oh c’mon! There's 56 stories of rage destroying the city-
 Ruby: and you’re afraid of the dark?
 NPC:Well...uh I mean the door’s locked…
 *CRASH*
 Ruby: AH DAMMIT, YOU SCRATCHED MY PAINT JOB YOU ASSHOLE!!
 NPC: Uh is this a bad time?
 Ruby: Yes it is, toast, begin civilian aid subroutine.
-NPC: what does that-
-Ruby: gotta go, toast will take it from here for a bit.
+NPC: What does that-
+Ruby: Gotta go, toast will take it from here for a bit.
 *CLICK*
 Toaster: Hello Nathaniel, Ruby has asked that I assist you while she is-
 *RAT-AT-AT-AT-AT-AT*
@@ -19,16 +19,12 @@ Toaster: ...handling the situation.
 NPC: oh uh hi, its uh...toaster right?
 Toaster: That is what Lieutenant Ruby has designated me yes.
 NPC: Well thats an...interesting name.
-Toaster: It is technically T0-ast-3r,
-T0ast3r: But Lieutenant Ruby said it was 'not cute enough'.
 T0ast3r: I am a T0 series Automatic Support Terminal, Model designation 3R.
+T0ast3r: But Lieutenant Ruby said it was 'not cute enough'.
 NPC: Ok, toaster it is. Anyway, how do I...uh leave I guess?
-T0ast3r: it appears the fusebox on this floor simply needs a replacement wire.
+T0ast3r: It appears the fusebox on this floor simply needs a replacement wire.
 T0ast3r: Find one and the power should return.
-NPC: Well thats...supprisingly simple.
-T0ast3r: I only know because I was able to scan the building earlier.
-T0ast3r: I also know that the proper cables are nearby,
-T0ast3r: as is the keycard needed to open the door.
+T0ast3r: The proper cable and the keycard for entry to the next floor are nearby.
 NPC: Finally some actual help, thanks toaster.
 T0ast3r: Of course, and as you are the last civilian here, 
 T0ast3r: My help subroutines will stay active until you have evacuated the city.

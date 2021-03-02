@@ -16,6 +16,11 @@ public class Level_Loader : MonoBehaviour
     public virtual void Start()
     {
         currentScene = SceneManager.GetActiveScene().name;
+        print(currentScene);
+        if (currentScene == "credits")
+        {
+            StartCoroutine(Credits());
+        }
     }
 
     public void OnTriggerEnter2D(Collider2D other)
@@ -40,5 +45,12 @@ public class Level_Loader : MonoBehaviour
         yield return new WaitForSeconds(transitionTime);
         //Load Scene
         SceneManager.LoadScene(sceneToLoad);
+    }
+
+    IEnumerator Credits()
+    {
+        print("hello");
+        yield return new WaitForSeconds(20);
+        LoadNextLevel();
     }
 }

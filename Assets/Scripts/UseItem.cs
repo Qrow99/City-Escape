@@ -11,6 +11,10 @@ public class UseItem : MonoBehaviour
     public int startLine;
     public int endLine;
     public TextAsset theText;
+    public bool loadsLevel;
+    public bool activatesText;
+    public Level_Loader levelLoader;
+    private bool readyToLoad;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,11 +25,25 @@ public class UseItem : MonoBehaviour
     {
         if (pressedbutton)
         {
-            TextBox.ReloadScript(theText);
-            TextBox.current_line = startLine;
-            TextBox.endAtLine = endLine;
-            TextBox.EnableTextBox();
-            pressedbutton = false;
+            if(activatesText)
+            {
+                TextBox.ReloadScript(theText);
+                TextBox.current_line = startLine;
+                TextBox.endAtLine = endLine;
+                TextBox.EnableTextBox();
+                pressedbutton = false;
+
+            }
+            if(loadsLevel)
+            {
+                readyToLoad = true;
+            }
+        }
+
+        if(readyToLoad && loadsLevel && !TextBox.isActive)
+        {
+            print("load level");
+            levelLoader.LoadNextLevel();
         }
     }
 

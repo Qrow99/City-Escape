@@ -24,6 +24,7 @@ public class TextBoxManager : MonoBehaviour
     public float typespeed;
 
     public PlayerMovement player;
+    private bool visited = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -39,9 +40,10 @@ public class TextBoxManager : MonoBehaviour
             endAtLine = textlines.Length - 1;
         }
 
-        if (isActive)
+        if (isActive && !visited)
         {
             EnableTextBox();
+            visited = true;
         }
 
         else
