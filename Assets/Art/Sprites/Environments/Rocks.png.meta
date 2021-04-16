@@ -23,6 +23,21 @@ TextureImporter:
   - first:
       213: -2427098341007487093
     second: Rocks_6
+  - first:
+      213: -1677260544633098824
+    second: Rocks_7
+  - first:
+      213: 9019416115260902278
+    second: Rocks_8
+  - first:
+      213: 8555942595556936778
+    second: Rocks_9
+  - first:
+      213: -8883485803396988322
+    second: Rocks_10
+  - first:
+      213: -4354885203342741706
+    second: Rocks_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -123,10 +138,10 @@ TextureImporter:
       name: Rocks_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 682
-        width: 1232
-        height: 495
+        x: 32
+        y: 816
+        width: 896
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,10 +159,10 @@ TextureImporter:
       name: Rocks_1
       rect:
         serializedVersion: 2
-        x: 1375
-        y: 748
-        width: 286
-        height: 242
+        x: 1016
+        y: 904
+        width: 240
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,10 +180,10 @@ TextureImporter:
       name: Rocks_2
       rect:
         serializedVersion: 2
-        x: 77
-        y: 319
-        width: 330
-        height: 352
+        x: 992
+        y: 768
+        width: 136
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,10 +201,10 @@ TextureImporter:
       name: Rocks_3
       rect:
         serializedVersion: 2
-        x: 550
-        y: 330
-        width: 308
-        height: 275
+        x: 1160
+        y: 784
+        width: 104
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,10 +222,10 @@ TextureImporter:
       name: Rocks_4
       rect:
         serializedVersion: 2
-        x: 1034
-        y: 473
-        width: 187
-        height: 132
+        x: 80
+        y: 600
+        width: 208
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +243,10 @@ TextureImporter:
       name: Rocks_5
       rect:
         serializedVersion: 2
-        x: 1397
-        y: 385
-        width: 176
-        height: 176
+        x: 360
+        y: 624
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,10 +264,10 @@ TextureImporter:
       name: Rocks_6
       rect:
         serializedVersion: 2
-        x: 1045
-        y: 275
-        width: 143
-        height: 88
+        x: 568
+        y: 544
+        width: 224
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,6 +277,111 @@ TextureImporter:
       bones: []
       spriteID: b8f0f4d0be6315ed0800000000000000
       internalID: -2427098341007487093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_7
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 656
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdad51db6c29b8e0800000000000000
+      internalID: -1677260544633098824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_8
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 296
+        width: 256
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b4f8f7b276b2d70800000000000000
+      internalID: 9019416115260902278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 416
+        width: 128
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c0ec69570dcb670800000000000000
+      internalID: 8555942595556936778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 408
+        width: 184
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e520c418ab487b480800000000000000
+      internalID: -8883485803396988322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocks_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 112
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa6211bf65093c0800000000000000
+      internalID: -4354885203342741706
       vertices: []
       indices: 
       edges: []
