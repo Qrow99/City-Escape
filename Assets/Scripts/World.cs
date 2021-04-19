@@ -6,12 +6,28 @@ public class World : MonoBehaviour
 {
     public Transform player;
     public bool wiresused = false;
+    public GameObject lights;
+    public GameObject walls;
     // Use this for initialization
     void Start()
     {
-        if (Level_Loader.prevScene == "Medkit puzzle")
+        lights = GameObject.FindGameObjectWithTag("Lights");
+        walls = GameObject.Find("removable doors");
+        if(lights != null)
         {
-            player.position = new Vector2(6f, 1.0f);
+            lights.SetActive(false);
+        }
+    }
+
+    private void Update()
+    {
+        if(wiresused && lights != null)
+        {
+            lights.SetActive(true);
+        }
+        if (wiresused && walls != null)
+        {
+            walls.SetActive(false);
         }
     }
 }

@@ -23,6 +23,11 @@ public class UseItem : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.E) && this.name != "GiveMedkit")
+        {
+            print(this.name);
+            Use();
+        }
         if (pressedbutton)
         {
             if(activatesText)

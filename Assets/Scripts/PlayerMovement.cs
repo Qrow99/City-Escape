@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         transform.position = Vector3.MoveTowards(transform.position, movepoint.position, movement_speed * Time.fixedDeltaTime);
-        if (Vector3.Distance(transform.position, movepoint.position) <= 0.5f)
+        if (Vector3.Distance(transform.position, movepoint.position) <= 0f)
         {
             movement.x = Input.GetAxisRaw("Horizontal");
             movement.y = Input.GetAxisRaw("Vertical");
@@ -41,7 +41,8 @@ public class PlayerMovement : MonoBehaviour
                 {
                     if ((Physics2D.OverlapCircle(movepoint.position + new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f), 0.2f, Pushable)))
                     {
-                        if (!(Physics2D.OverlapCircle(movepoint.position + (2 * (new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f))), 0.2f, Walls)) && !(Physics2D.OverlapCircle(movepoint.position + (2 * (new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f))), 0.2f, Pushable)))
+                        if (!(Physics2D.OverlapCircle(movepoint.position + (2 * (new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f))), 0.2f, Walls)) && 
+                            !(Physics2D.OverlapCircle(movepoint.position + (2 * (new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f))), 0.2f, Pushable)))
                         {
                             movepoint.position += new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f);
                         }
@@ -58,7 +59,8 @@ public class PlayerMovement : MonoBehaviour
                 {
                     if ((Physics2D.OverlapCircle(movepoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), 0.2f, Pushable)))
                     {
-                        if (!(Physics2D.OverlapCircle(movepoint.position + (2 * (new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f))), 0.2f, Walls)) && !(Physics2D.OverlapCircle(movepoint.position + (2 * (new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f))), 0.2f, Pushable)))
+                        if (!(Physics2D.OverlapCircle(movepoint.position + (2 * (new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f))), 0.2f, Walls)) &&
+                            !(Physics2D.OverlapCircle(movepoint.position + (2 * (new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f))), 0.2f, Pushable)))
                         {
                             movepoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f);
                         }

@@ -46,6 +46,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   wiresused: 0
+  lights: {fileID: 0}
 --- !u!114 &6675242575790236477
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -124,11 +125,12 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -7383544810947030734, guid: 41c230690e7af8c49b6d1abd3ef6b691,
+  m_Sprite: {fileID: -8160606895695184162, guid: 9150a12192c82f94198c29ca77160ce4,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -153,6 +155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Navigation:
     m_Mode: 3
+    m_WrapAround: 0
     m_SelectOnUp: {fileID: 0}
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
@@ -183,6 +186,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2364866148276078852}
+        m_TargetAssemblyTypeName: 
         m_MethodName: Use
         m_Mode: 1
         m_Arguments:
@@ -207,10 +211,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TextBox: {fileID: 0}
   startLine: 0
-  endLine: 0
-  theText: {fileID: 0}
+  endLine: -1
+  theText: {fileID: 4900000, guid: 7ddfee0ef82a9da41928ab41cdc24f1d, type: 3}
   loadsLevel: 0
   activatesText: 0
   levelLoader: {fileID: 0}
-  theworld: {fileID: 4770687537168511642}
-  inv: {fileID: 6675242575790236477}

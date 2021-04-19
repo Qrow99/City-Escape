@@ -27,6 +27,11 @@ public class UseWires : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.E) && this.name != "Fuse Box")
+        {
+            print(this.name);
+            Use();
+        }
         if (pressedbutton)
         {
             if (activatesText)

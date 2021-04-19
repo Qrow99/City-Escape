@@ -27,6 +27,12 @@ public class UseBlueKeycard : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.E) && this.name != "Use Blue Keycard" )
+        {
+            print(this.name);
+            Use();
+        }
+
         if (pressedbutton)
         {
             if (activatesText)
@@ -63,7 +69,7 @@ public class UseBlueKeycard : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.name == "player")
+        if (other.name == "player" )
         {
             inrange = true;
             return;
