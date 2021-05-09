@@ -1,24 +1,24 @@
-Voice: God, this hurts like a…oh what now?
-Voice: HEY YOU get over here!
-To talk to people and objects, approach them and press the spacebar.
+N Voice: God, this hurts like a…oh what now?
+P Voice: HEY YOU get over here!
+0 To talk to people and objects, approach them and press the spacebar.
 
-Angry Girl: A civvie? Dammit I thought the transports left hours ago.
-Angry Girl: The hell are you still doin’ here?
-???: Ah please don't hurt me! I’m just a local tour guide! Don’t shoot me! Please! 
-???: My name’s Nathan Parks Charlamenge! I’m 27! My social security number is 18-
-Angry Girl: Arghh, will ya shut up! I'm not here to fight ‘people’. 
-Angry Girl: You don't have to freak out so much. 
-Angry Girl: Is he some kind of moron?
-NPC: hu--oh uh, then what are you here for? what happened?
-Angry Girl: Have you looked outside lately? 
-Angry Girl: We’ve got much bigger problems to deal with.
-*GYAAAAAAAAAAAAAOOOOOOOOOOOOOOO*
-Angry Girl: About 50-ish stories of problems.
-Robotic voice: 55.89 stories to be precise.
-Angry Girl: Not in the mood toaster. How much time until systems are functional?
-Toaster: Systems will be fully operational in five minutes Pilot. 
-Toaster: Do not rush back into the fight before you are healed.
-Pilot: Well civvie, if you don’t wanna die, you should get goin’.
-NPC: Yeah ok, but you look pretty hurt, do you need help?
-Pilot: Im fine, just get outta here before things get worse.
-Pilot: I'm gonna take a short breather.
+A Angry Girl: A civvie? Dammit I thought the transports left hours ago.
+P Angry Girl: The hell are you still doin’ here?
+0 ???: Ah please don't hurt me! I’m just a local tour guide! Don’t shoot me! Please! 
+0 ???: My name’s Nathan Parks Charlamenge! I’m 27! My social security number is 18-
+A Angry Girl: Arghh, will ya shut up! I'm not here to fight ‘people’. 
+A Angry Girl: You don't have to freak out so much. 
+N Angry Girl: Is he some kind of moron?
+0 NPC: hu--oh uh, then what are you here for? what happened?
+A Angry Girl: Have you looked outside lately? 
+A Angry Girl: We’ve got much bigger problems to deal with.
+0 *GYAAAAAAAAAAAAAOOOOOOOOOOOOOOO*
+N Angry Girl: About 50-ish stories of problems.
+0 Robotic voice: 55.89 stories to be precise.
+A Angry Girl: Not in the mood toaster. How much time until systems are functional?
+0 Toaster: Systems will be fully operational in five minutes Pilot. 
+0 Toaster: Do not rush back into the fight before you are healed.
+A Pilot: Well civvie, if you don’t wanna die, you should get goin’.
+0 NPC: Yeah ok, but you look pretty hurt, do you need help?
+A Pilot: Im fine, just get outta here before things get worse.
+N Pilot: I'm gonna take a short breather.

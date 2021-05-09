@@ -14,18 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Art/Sprites/Environments/Hospital 2.png.meta
-    - Assets/Scenes/Medkit puzzle.unity
-    - Assets/Scenes/Wiring Puzzle.unity
-    - Assets/Sounds.meta
-    - Assets/Sounds/8bit-SFX-Library.zip
-    - Assets/Sounds/8bit-SFX-Library.zip.meta
-    - Assets/Sounds/Abstraction - Three Red Hearts (Prepare to Dev).zip
-    - Assets/Sounds/Abstraction - Three Red Hearts (Prepare to Dev).zip.meta
-    - Assets/Sounds/Old Man Sound Effects.zip
-    - Assets/Sounds/Old Man Sound Effects.zip.meta
     - 
-    m_Values: 0000000000000000000000
+    m_Values: 01
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

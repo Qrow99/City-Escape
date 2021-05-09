@@ -1,3 +1,3 @@
-When you touch an item, you'll pick it up.
-If you want to use it, click the item button in the top left.
-I'd say you should try using this item, but I think someone else needs it...
+0 When you touch an item, you'll pick it up.
+0 If you want to use it, press E near what you want to use it on.
+0 I'd say you should try using this item, but I think someone else needs it...

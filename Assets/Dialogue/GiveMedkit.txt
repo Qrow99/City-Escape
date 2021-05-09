@@ -1,19 +1,18 @@
-Pilot: Oh, you again. Shit, what was his name? Nate? Nick? I’ll just go with NPC. 
-Pilot: What brings you back here NPC? You got a death wish or something?
-NPC: …NPC? What does that mean? Is that military talk for something? 
-NPC: Uhhhh...North Pacific Coast? No thats not right...
-Pilot: Hello? Everything workin’ in there? 
-NPC: …Oh crap, she’s talking about me! Right… my initials… I knew that.
-Pilot: oh wow he is dumb…
-NPC: Did you say something?
-Pilot: Nothing, I thought I told you to leave. 
-NPC: I saw you were hurt, so I figured you’d need this.
-Pilot: you didn’t have to but thanks anyways. 
-Pilot: Here take this radio. 
-Pilot: The fight is still close, I’ll contact you if anything happens.
-Pilot: It looks like there's rubble blocking the way down
-Pilot: Lemme give you a lift, consider it a thank you. 
-NPC: Right! Thanks…uh...?
-Pilot: Ruby.
-NPC: Right, ruby.
-Ruby: It looks like there's rubble blocking the way down.
+N Pilot: Oh, you again. Shit, what was his name? Nate? Nick? I’ll just go with NPC. 
+A Pilot: What brings you back here NPC? You got a death wish or something?
+0 NPC: …NPC? What does that mean? Is that military talk for something? 
+0 NPC: Uhhhh...North Pacific Coast? No thats not right...
+A Pilot: Hello? Everything workin’ in there? 
+0 NPC: …Oh crap, she’s talking about me! Right… my initials… I knew that.
+N Pilot: oh wow he is dumb…
+0 NPC: Did you say something?
+A Pilot: Nothing, I thought I told you to leave. 
+0 NPC: I saw you were hurt, so I figured you’d need this.
+A Pilot: you didn’t have to but thanks anyways. 
+A Pilot: Here take this radio. 
+A Pilot: The fight is still close, I’ll contact you if anything happens.
+A Pilot: It looks like there's rubble blocking the way down
+A Pilot: Lemme give you a lift, consider it a thank you. 
+0 NPC: Right! Thanks…uh...?
+A Pilot: Ruby.
+0 NPC: Right, ruby.

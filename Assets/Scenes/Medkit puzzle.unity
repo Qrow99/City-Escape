@@ -2752,6 +2752,12 @@ Transform:
   m_Father: {fileID: 616298294}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &430015178 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2437974242020760836, guid: 98082aa89cfe6284b918efa47d1c164e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1704018439}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &436207148 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 584073552892792494, guid: 98082aa89cfe6284b918efa47d1c164e,
@@ -4023,6 +4029,12 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.9, y: 0.8}
   m_EdgeRadius: 0
+--- !u!1 &1118868212 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6070735966314299278, guid: 98082aa89cfe6284b918efa47d1c164e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1704018439}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1309802007
 GameObject:
   m_ObjectHideFlags: 0
@@ -5797,6 +5809,12 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.65, y: 0.65}
   m_EdgeRadius: 0
+--- !u!1 &1502262333 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6824054976467043406, guid: 98082aa89cfe6284b918efa47d1c164e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1704018439}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1534816496
 GameObject:
   m_ObjectHideFlags: 0
@@ -6085,9 +6103,29 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2409344958781879637, guid: 98082aa89cfe6284b918efa47d1c164e,
         type: 3}
+      propertyPath: Rubypissed
+      value: 
+      objectReference: {fileID: 430015178}
+    - target: {fileID: 2409344958781879637, guid: 98082aa89cfe6284b918efa47d1c164e,
+        type: 3}
       propertyPath: StopPlayer
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2409344958781879637, guid: 98082aa89cfe6284b918efa47d1c164e,
+        type: 3}
+      propertyPath: Rubyannoyed
+      value: 
+      objectReference: {fileID: 1502262333}
+    - target: {fileID: 2409344958781879637, guid: 98082aa89cfe6284b918efa47d1c164e,
+        type: 3}
+      propertyPath: Rubyneutral
+      value: 
+      objectReference: {fileID: 1118868212}
+    - target: {fileID: 2409344958781879637, guid: 98082aa89cfe6284b918efa47d1c164e,
+        type: 3}
+      propertyPath: Rubyportrait
+      value: 
+      objectReference: {fileID: 1118868212}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98082aa89cfe6284b918efa47d1c164e, type: 3}
 --- !u!1 &1723562714
