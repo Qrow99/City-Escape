@@ -3416,6 +3416,16 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 879563316}
+    - target: {fileID: 2409344958781879637, guid: 98082aa89cfe6284b918efa47d1c164e,
+        type: 3}
+      propertyPath: textfile
+      value: 
+      objectReference: {fileID: 4900000, guid: ec17f7e228107904e9ebddef2583ee6f, type: 3}
+    - target: {fileID: 2409344958781879637, guid: 98082aa89cfe6284b918efa47d1c164e,
+        type: 3}
+      propertyPath: endAtLine
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98082aa89cfe6284b918efa47d1c164e, type: 3}
 --- !u!224 &1349549865 stripped
@@ -3993,7 +4003,7 @@ GameObject:
   - component: {fileID: 1741277234}
   - component: {fileID: 1741277233}
   m_Layer: 9
-  m_Name: crate(1)
+  m_Name: Crate (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

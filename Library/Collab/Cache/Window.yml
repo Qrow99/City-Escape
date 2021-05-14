@@ -14,8 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
+    - Assets/GameOver.cs
+    - Assets/Prefabs/Death.prefab
+    - Assets/Scenes/Stealth.unity
     - 
-    m_Values: 01
+    m_Values: 00000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

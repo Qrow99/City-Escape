@@ -5135,7 +5135,7 @@ PrefabInstance:
     - target: {fileID: 2294448224397495638, guid: 076e0049f4588e145b1d26ff32660fd7,
         type: 3}
       propertyPath: sceneToLoad
-      value: credits
+      value: Stealth
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 076e0049f4588e145b1d26ff32660fd7, type: 3}

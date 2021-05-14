@@ -1,0 +1,2235 @@
+fileFormatVersion: 2
+guid: 2309e4cc1ed38644c87a3771b7a78fd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8243096905088224000
+    second: Military Base V3_0
+  - first:
+      213: -7242321531718689644
+    second: Military Base V3_1
+  - first:
+      213: 8819656516442100575
+    second: Military Base V3_2
+  - first:
+      213: 8675293839334767855
+    second: Military Base V3_3
+  - first:
+      213: 1735829836230720022
+    second: Military Base V3_4
+  - first:
+      213: -8476042309527962480
+    second: Military Base V3_5
+  - first:
+      213: 7360015152340276988
+    second: Military Base V3_6
+  - first:
+      213: -5410944754031354157
+    second: Military Base V3_7
+  - first:
+      213: 6533035117371707868
+    second: Military Base V3_8
+  - first:
+      213: -7309366538515886593
+    second: Military Base V3_9
+  - first:
+      213: -3077186211174927720
+    second: Military Base V3_10
+  - first:
+      213: 4399483735867478769
+    second: Military Base V3_11
+  - first:
+      213: 990231875084682101
+    second: Military Base V3_12
+  - first:
+      213: 3069138642751380133
+    second: Military Base V3_13
+  - first:
+      213: -5548006174301151267
+    second: Military Base V3_14
+  - first:
+      213: 4359768059023650093
+    second: Military Base V3_15
+  - first:
+      213: 2314893627244029408
+    second: Military Base V3_16
+  - first:
+      213: -6011377453089388075
+    second: Military Base V3_17
+  - first:
+      213: 73207195944599935
+    second: Military Base V3_18
+  - first:
+      213: -1773968277833571693
+    second: Military Base V3_19
+  - first:
+      213: 2711148248121498992
+    second: Military Base V3_20
+  - first:
+      213: -1346371499660130548
+    second: Military Base V3_21
+  - first:
+      213: -4476583578025138669
+    second: Military Base V3_22
+  - first:
+      213: 1962934784735957914
+    second: Military Base V3_23
+  - first:
+      213: 5989936610604309134
+    second: Military Base V3_24
+  - first:
+      213: -3215655714889552764
+    second: Military Base V3_25
+  - first:
+      213: 4575761459326511997
+    second: Military Base V3_26
+  - first:
+      213: -3808987754791674844
+    second: Military Base V3_27
+  - first:
+      213: 2175681766801670248
+    second: Military Base V3_28
+  - first:
+      213: -3612056539620500263
+    second: Military Base V3_29
+  - first:
+      213: -2443995136316559820
+    second: Military Base V3_30
+  - first:
+      213: -1170383562643470512
+    second: Military Base V3_31
+  - first:
+      213: 4758740756293413364
+    second: Military Base V3_32
+  - first:
+      213: -2904994698838223632
+    second: Military Base V3_33
+  - first:
+      213: -8288944308529213918
+    second: Military Base V3_34
+  - first:
+      213: 1750764491780607554
+    second: Military Base V3_35
+  - first:
+      213: 4323587789725277752
+    second: Military Base V3_36
+  - first:
+      213: -7850120263795734452
+    second: Military Base V3_37
+  - first:
+      213: -8671030229770609136
+    second: Military Base V3_38
+  - first:
+      213: -930281886902701614
+    second: Military Base V3_39
+  - first:
+      213: -897949037368285935
+    second: Military Base V3_40
+  - first:
+      213: 2638969424141976901
+    second: Military Base V3_41
+  - first:
+      213: -7394575385472133910
+    second: Military Base V3_42
+  - first:
+      213: -6769464925910386285
+    second: Military Base V3_43
+  - first:
+      213: -4791291305001471528
+    second: Military Base V3_44
+  - first:
+      213: -2610793236266782078
+    second: Military Base V3_45
+  - first:
+      213: 2087826680361257295
+    second: Military Base V3_46
+  - first:
+      213: -753487101544691011
+    second: Military Base V3_47
+  - first:
+      213: -672790313455276890
+    second: Military Base V3_48
+  - first:
+      213: 1316694921774753349
+    second: Military Base V3_49
+  - first:
+      213: -5988532116200968278
+    second: Military Base V3_50
+  - first:
+      213: 7419010844265508613
+    second: Military Base V3_51
+  - first:
+      213: -1803602429135696953
+    second: Military Base V3_52
+  - first:
+      213: 4421325540499970976
+    second: Military Base V3_53
+  - first:
+      213: 8609406831713052132
+    second: Military Base V3_54
+  - first:
+      213: 3233509156178082456
+    second: Military Base V3_55
+  - first:
+      213: -2866140741922677492
+    second: Military Base V3_56
+  - first:
+      213: 6897686584377398193
+    second: Military Base V3_57
+  - first:
+      213: -8404736350092472664
+    second: Military Base V3_58
+  - first:
+      213: 4444717836310802550
+    second: Military Base V3_59
+  - first:
+      213: -8659243614947652786
+    second: Military Base V3_60
+  - first:
+      213: 7525006090143295989
+    second: Military Base V3_61
+  - first:
+      213: 6938666179876805988
+    second: Military Base V3_62
+  - first:
+      213: -324077459916833749
+    second: Military Base V3_63
+  - first:
+      213: -5996525028308975855
+    second: Military Base V3_64
+  - first:
+      213: 6521193067578158697
+    second: Military Base V3_65
+  - first:
+      213: 3555681678115718779
+    second: Military Base V3_66
+  - first:
+      213: 4803867905666761146
+    second: Military Base V3_67
+  - first:
+      213: 1969913128082903978
+    second: Military Base V3_68
+  - first:
+      213: -530403695726109147
+    second: Military Base V3_69
+  - first:
+      213: -6771418777237440886
+    second: Military Base V3_70
+  - first:
+      213: -8685917129100957574
+    second: Military Base V3_71
+  - first:
+      213: -3109925703307282815
+    second: Military Base V3_72
+  - first:
+      213: -128881952243298746
+    second: Military Base V3_73
+  - first:
+      213: -2817474493026661906
+    second: Military Base V3_74
+  - first:
+      213: -13958915549526492
+    second: Military Base V3_75
+  - first:
+      213: -3090419819402225331
+    second: Military Base V3_76
+  - first:
+      213: -8967068727764572050
+    second: Military Base V3_77
+  - first:
+      213: 4842479897761535774
+    second: Military Base V3_78
+  - first:
+      213: 2942712544846846402
+    second: Military Base V3_79
+  - first:
+      213: 678327963546969877
+    second: Military Base V3_80
+  - first:
+      213: -4874539114544260795
+    second: Military Base V3_81
+  - first:
+      213: -8600880428833570897
+    second: Military Base V3_82
+  - first:
+      213: 4454870018686618535
+    second: Military Base V3_83
+  - first:
+      213: -1760892923390652052
+    second: Military Base V3_84
+  - first:
+      213: -6441283018652098998
+    second: Military Base V3_85
+  - first:
+      213: -6821792195770377171
+    second: Military Base V3_86
+  - first:
+      213: -6085060659246684558
+    second: Military Base V3_87
+  - first:
+      213: -3041373859497952510
+    second: Military Base V3_88
+  - first:
+      213: 4912816723290997839
+    second: Military Base V3_89
+  - first:
+      213: 3621483094497413819
+    second: Military Base V3_90
+  - first:
+      213: -2723295663533936276
+    second: Military Base V3_91
+  - first:
+      213: -5109764005985502883
+    second: Military Base V3_92
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Military Base V3_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bc7ec16fc556270800000000000000
+      internalID: 8243096905088224000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c9eb830fa1e7b90800000000000000
+      internalID: -7242321531718689644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f539d778fd6b56a70800000000000000
+      internalID: 8819656516442100575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecfeaf78c5d46870800000000000000
+      internalID: 8675293839334767855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_4
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a7e0b0a08e61810800000000000000
+      internalID: 1735829836230720022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c776f6d6c0f5a80800000000000000
+      internalID: -8476042309527962480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf61cb839c6042660800000000000000
+      internalID: 7360015152340276988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de92b42a6678e4b0800000000000000
+      internalID: -5410944754031354157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_8
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1d71463d00aaa50800000000000000
+      internalID: 6533035117371707868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_9
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd42a22cd9ef8a90800000000000000
+      internalID: -7309366538515886593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_10
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892303fc173ab45d0800000000000000
+      internalID: -3077186211174927720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f25d77f52b1e0d30800000000000000
+      internalID: 4399483735867478769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_12
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57301b7d4a20ebd00800000000000000
+      internalID: 990231875084682101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_13
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1056
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aade97a555c79a20800000000000000
+      internalID: 3069138642751380133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1b1177c58103b0800000000000000
+      internalID: -5548006174301151267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de23d53f1018c30800000000000000
+      internalID: 4359768059023650093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e522b83d77202020800000000000000
+      internalID: 2314893627244029408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d980d95e0c439ca0800000000000000
+      internalID: -6011377453089388075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71c74d8e85140100800000000000000
+      internalID: 73207195944599935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_19
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3922bec00499167e0800000000000000
+      internalID: -1773968277833571693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_20
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d54b6a7feef9520800000000000000
+      internalID: 2711148248121498992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c074c03214ab05de0800000000000000
+      internalID: -1346371499660130548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_22
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316e67824faffd1c0800000000000000
+      internalID: -4476583578025138669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_23
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d17169cebd3b10800000000000000
+      internalID: 1962934784735957914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_24
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a5d2e7c97802350800000000000000
+      internalID: 5989936610604309134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cad022a22bf53d0800000000000000
+      internalID: -3215655714889552764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_26
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b6418cdce508f30800000000000000
+      internalID: 4575761459326511997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_27
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c54d161d1c32bc0800000000000000
+      internalID: -3808987754791674844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_28
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86002862a03913e10800000000000000
+      internalID: 2175681766801670248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_29
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc1b47f6b56fddc0800000000000000
+      internalID: -3612056539620500263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_30
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea1135f5f251ed0800000000000000
+      internalID: -2443995136316559820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_31
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0570ea9c956f1cfe0800000000000000
+      internalID: -1170383562643470512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ea0541817a0240800000000000000
+      internalID: 4758740756293413364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_33
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 864
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4da5576b26fa7d0800000000000000
+      internalID: -2904994698838223632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_34
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ece1f6111c7fc80800000000000000
+      internalID: -8288944308529213918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_35
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e43f18707fb4810800000000000000
+      internalID: 1750764491780607554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_36
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e9ac9ff28700c30800000000000000
+      internalID: 4323587789725277752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_37
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c480c583635ce0390800000000000000
+      internalID: -7850120263795734452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e59d572ff4aa780800000000000000
+      internalID: -8671030229770609136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d13f2e7d89f613f0800000000000000
+      internalID: -930281886902701614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1156249ab18d983f0800000000000000
+      internalID: -897949037368285935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_41
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 768
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545891b95b08f9420800000000000000
+      internalID: 2638969424141976901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae416147dd0316990800000000000000
+      internalID: -7394575385472133910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282735a526994cbd0800000000000000
+      internalID: -2610793236266782078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f490483dd4379fc10800000000000000
+      internalID: 2087826680361257295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_47
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba079929731b85f0800000000000000
+      internalID: -753487101544691011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acac2646c4c9a6f0800000000000000
+      internalID: -672790313455276890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_49
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e1f12e07d54210800000000000000
+      internalID: 1316694921774753349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_50
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafa2d7d4c574eca0800000000000000
+      internalID: -5988532116200968278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_51
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f67352e0f95f660800000000000000
+      internalID: 7419010844265508613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc557852158f6e0800000000000000
+      internalID: -1803602429135696953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_54
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e31b16e1ca7770800000000000000
+      internalID: 8609406831713052132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_55
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ab7f7127bbfdc20800000000000000
+      internalID: 3233509156178082456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_56
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d9c614e2c6938d0800000000000000
+      internalID: -2866140741922677492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_57
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3dac9276189bf50800000000000000
+      internalID: 6897686584377398193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_59
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 625
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f520b25fcead30800000000000000
+      internalID: 4444717836310802550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_60
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 624
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bc9739fcf24d780800000000000000
+      internalID: -8659243614947652786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dd292c0281b4060800000000000000
+      internalID: 6938666179876805988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c32f96445a08bf0800000000000000
+      internalID: -324077459916833749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_64
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f77e8f14018cca0800000000000000
+      internalID: -5996525028308975855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6cb05b8eef7a50800000000000000
+      internalID: 6521193067578158697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_66
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c37eb5a1585130800000000000000
+      internalID: 3555681678115718779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_67
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1ca218864caa240800000000000000
+      internalID: 4803867905666761146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_68
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa392cd8d89865b10800000000000000
+      internalID: 1969913128082903978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_69
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ed0b026a0a3a8f0800000000000000
+      internalID: -530403695726109147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_70
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863a55af761702a0800000000000000
+      internalID: -6771418777237440886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_71
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78e47b146c657780800000000000000
+      internalID: -8685917129100957574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_72
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1863388cc0357d4d0800000000000000
+      internalID: -3109925703307282815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_73
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e449a1c8e163ef0800000000000000
+      internalID: -128881952243298746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_74
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee90c6f40e156e8d0800000000000000
+      internalID: -2817474493026661906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_75
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 480
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268835b0786ecff0800000000000000
+      internalID: -13958915549526492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4914b94c8f9c15d0800000000000000
+      internalID: -3090419819402225331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68241d60829e8380800000000000000
+      internalID: -8967068727764572050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_78
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17db0a7fc1f33340800000000000000
+      internalID: 4842479897761535774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_79
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c99ea7e77d96d820800000000000000
+      internalID: 2942712544846846402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_80
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5176e6c50b7e96900800000000000000
+      internalID: 678327963546969877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_81
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54997d170882a5cb0800000000000000
+      internalID: -4874539114544260795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_82
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faff3c3c1d883a880800000000000000
+      internalID: -8600880428833570897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_83
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab8a58dda0e2dd30800000000000000
+      internalID: 4454870018686618535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_84
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c611dcd373d0097e0800000000000000
+      internalID: -1760892923390652052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_85
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e5c7fc837fb96a0800000000000000
+      internalID: -6441283018652098998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_86
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c139f24202451a0800000000000000
+      internalID: -6821792195770377171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_87
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a5e802958d8ba0800000000000000
+      internalID: -6085060659246684558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_88
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3773b69edac5d0800000000000000
+      internalID: -3041373859497952510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_89
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44cb56d7c4dd2440800000000000000
+      internalID: 4912816723290997839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac99fdfa7124230800000000000000
+      internalID: 3621483094497413819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_91
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b2bcc509e43ad0800000000000000
+      internalID: -2723295663533936276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military Base V3_92
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59382195b87619b0800000000000000
+      internalID: -5109764005985502883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -29,6 +29,12 @@ public class TextBoxManager : MonoBehaviour
     public GameObject Rubyneutral;
     public GameObject Rubyannoyed;
     public GameObject Rubypissed;
+
+    public GameObject Toastneutral;
+    public GameObject ToastWarning;
+    public GameObject ToastAngry;
+    public GameObject ToastSad;
+    public GameObject Toastcat;
     // Start is called before the first frame update
     void Start()
     {
@@ -36,6 +42,13 @@ public class TextBoxManager : MonoBehaviour
         Rubyannoyed.SetActive(false);
         Rubypissed.SetActive(false);
         Rubyneutral.SetActive(false);
+
+        Toastneutral.SetActive(false);
+        ToastWarning.SetActive(false);
+        ToastAngry.SetActive(false);
+        ToastSad.SetActive(false);
+        Toastcat.SetActive(false);
+
         player = FindObjectOfType<PlayerMovement>();
         if (textfile != null)
         {
@@ -124,6 +137,12 @@ public class TextBoxManager : MonoBehaviour
         Rubyannoyed.SetActive(false);
         Rubypissed.SetActive(false);
         Rubyneutral.SetActive(false);
+
+        Toastneutral.SetActive(false);
+        ToastWarning.SetActive(false);
+        ToastAngry.SetActive(false);
+        ToastSad.SetActive(false);
+        Toastcat.SetActive(false);
         textbox.SetActive(false);
         isActive = false;
         player.canMove = true;
@@ -140,8 +159,61 @@ public class TextBoxManager : MonoBehaviour
 
     public void selectportrait() //when using portraits, if a line does not need a portrait, start it with a 0
     {
-        if (textlines[current_line][2] == 'R' || textlines[current_line][2] == 'A' || textlines[current_line][2] == 'P' || textlines[current_line][2] == 'V')
+        if ((textlines[current_line][2] == 'R' && textlines[current_line][3] == 'o') || textlines[current_line][2] == 'T')
         {
+            Rubypissed.SetActive(false);
+            Rubyannoyed.SetActive(false);
+            Rubyneutral.SetActive(false);
+
+            if (textlines[current_line][0] == 'N') //N = neutral
+            {
+                Toastneutral.SetActive(true);
+                ToastWarning.SetActive(false);
+                ToastAngry.SetActive(false);
+                ToastSad.SetActive(false);
+                Toastcat.SetActive(false);
+            }
+            else if (textlines[current_line][0] == 'W') //W = warning
+            {
+                ToastWarning.SetActive(true);
+                Toastneutral.SetActive(false);
+                ToastAngry.SetActive(false);
+                ToastSad.SetActive(false);
+                Toastcat.SetActive(false);
+            }
+            else if (textlines[current_line][0] == 'A') //A = Angry
+            {
+                ToastAngry.SetActive(true);
+                Toastneutral.SetActive(false);
+                ToastWarning.SetActive(false);
+                ToastSad.SetActive(false);
+                Toastcat.SetActive(false);
+            }
+            else if (textlines[current_line][0] == 'S') //S = sad
+            {
+                ToastSad.SetActive(true);
+                Toastneutral.SetActive(false);
+                ToastWarning.SetActive(false);
+                ToastAngry.SetActive(false);
+                Toastcat.SetActive(false);
+            }
+            else if (textlines[current_line][0] == 'C') //C = Cat
+            {
+                Toastcat.SetActive(true);
+                Toastneutral.SetActive(false);
+                ToastWarning.SetActive(false);
+                ToastAngry.SetActive(false);
+                ToastSad.SetActive(false);
+            }
+        }
+        else if (textlines[current_line][2] == 'R' || textlines[current_line][2] == 'A' || textlines[current_line][2] == 'P' || textlines[current_line][2] == 'V')
+        {
+            Toastneutral.SetActive(false);
+            ToastWarning.SetActive(false);
+            ToastAngry.SetActive(false);
+            ToastSad.SetActive(false);
+            Toastcat.SetActive(false);
+
             if (textlines[current_line][0] == 'A') //A = Annoyed
             {
                 Rubyannoyed.SetActive(true);
@@ -166,12 +238,19 @@ public class TextBoxManager : MonoBehaviour
                 Rubypissed.SetActive(false);
                 Rubyneutral.SetActive(false);
             }
+            
         }
         else
         {
             Rubyannoyed.SetActive(false);
             Rubypissed.SetActive(false);
             Rubyneutral.SetActive(false);
+
+            Toastneutral.SetActive(false);
+            ToastWarning.SetActive(false);
+            ToastAngry.SetActive(false);
+            ToastSad.SetActive(false);
+            Toastcat.SetActive(false);
         }
     }
 }

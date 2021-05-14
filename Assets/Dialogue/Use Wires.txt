@@ -1,2 +1,2 @@
 0 NPC: Ok toast, I found the wires, uh what do I do now?
-0 T0ast3r: Excellent, now remove the old wire and put in the new one.
+C T0ast3r: Excellent, now remove the old wire and put in the new one.

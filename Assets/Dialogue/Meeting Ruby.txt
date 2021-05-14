@@ -14,10 +14,10 @@ A Angry Girl: Have you looked outside lately?
 A Angry Girl: We’ve got much bigger problems to deal with.
 0 *GYAAAAAAAAAAAAAOOOOOOOOOOOOOOO*
 N Angry Girl: About 50-ish stories of problems.
-0 Robotic voice: 55.89 stories to be precise.
+N Robotic voice: 55.89 stories to be precise.
 A Angry Girl: Not in the mood toaster. How much time until systems are functional?
-0 Toaster: Systems will be fully operational in five minutes Pilot. 
-0 Toaster: Do not rush back into the fight before you are healed.
+N Toaster: Systems will be fully operational in five minutes Pilot. 
+W Toaster: Do not rush back into the fight before you are healed.
 A Pilot: Well civvie, if you don’t wanna die, you should get goin’.
 0 NPC: Yeah ok, but you look pretty hurt, do you need help?
 A Pilot: Im fine, just get outta here before things get worse.
