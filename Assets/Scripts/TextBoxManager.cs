@@ -26,6 +26,9 @@ public class TextBoxManager : MonoBehaviour
     public PlayerMovement player;
     private bool visited = false;
 
+    public bool cutscene;
+    private Level_Loader level;
+
     public GameObject Rubyneutral;
     public GameObject Rubyannoyed;
     public GameObject Rubypissed;
@@ -35,9 +38,15 @@ public class TextBoxManager : MonoBehaviour
     public GameObject ToastAngry;
     public GameObject ToastSad;
     public GameObject Toastcat;
+
+    public GameObject NPCneutral;
+    public GameObject NPCembarrased;
+    public GameObject NPCshocked;
+
     // Start is called before the first frame update
     void Start()
     {
+
         textbox.SetActive(false);
         Rubyannoyed.SetActive(false);
         Rubypissed.SetActive(false);
@@ -49,6 +58,11 @@ public class TextBoxManager : MonoBehaviour
         ToastSad.SetActive(false);
         Toastcat.SetActive(false);
 
+        NPCneutral.SetActive(false);
+        NPCembarrased.SetActive(false);
+        NPCshocked.SetActive(false);
+
+        level = FindObjectOfType<Level_Loader>();
         player = FindObjectOfType<PlayerMovement>();
         if (textfile != null)
         {
@@ -79,7 +93,7 @@ public class TextBoxManager : MonoBehaviour
             player.canMove = true;
             return;
         }
-        if(Input.GetKeyDown(KeyCode.Mouse0) && textbox.activeSelf)
+        if((Input.GetKeyDown(KeyCode.Mouse0) || Input.GetKeyDown(KeyCode.Space)) && textbox.activeSelf)
         {
             if (!isTyping)
             {
@@ -144,8 +158,17 @@ public class TextBoxManager : MonoBehaviour
         ToastSad.SetActive(false);
         Toastcat.SetActive(false);
         textbox.SetActive(false);
+
+        NPCneutral.SetActive(false);
+        NPCembarrased.SetActive(false);
+        NPCshocked.SetActive(false);
+
         isActive = false;
         player.canMove = true;
+        if(cutscene)
+        {
+            level.LoadNextLevel();
+        }
     }
 
     public void ReloadScript(TextAsset theText)
@@ -164,6 +187,10 @@ public class TextBoxManager : MonoBehaviour
             Rubypissed.SetActive(false);
             Rubyannoyed.SetActive(false);
             Rubyneutral.SetActive(false);
+
+            NPCneutral.SetActive(false);
+            NPCembarrased.SetActive(false);
+            NPCshocked.SetActive(false);
 
             if (textlines[current_line][0] == 'N') //N = neutral
             {
@@ -214,6 +241,10 @@ public class TextBoxManager : MonoBehaviour
             ToastSad.SetActive(false);
             Toastcat.SetActive(false);
 
+            NPCneutral.SetActive(false);
+            NPCembarrased.SetActive(false);
+            NPCshocked.SetActive(false);
+
             if (textlines[current_line][0] == 'A') //A = Annoyed
             {
                 Rubyannoyed.SetActive(true);
@@ -240,6 +271,37 @@ public class TextBoxManager : MonoBehaviour
             }
             
         }
+        else if (textlines[current_line][2] == 'N' || textlines[current_line][2] == '?')
+        {
+            Toastneutral.SetActive(false);
+            ToastWarning.SetActive(false);
+            ToastAngry.SetActive(false);
+            ToastSad.SetActive(false);
+            Toastcat.SetActive(false);
+
+            Rubypissed.SetActive(false);
+            Rubyannoyed.SetActive(false);
+            Rubyneutral.SetActive(false);
+
+            if (textlines[current_line][0] == 'E') //E = emberassed
+            {
+                NPCneutral.SetActive(false);
+                NPCembarrased.SetActive(true);
+                NPCshocked.SetActive(false);
+            }
+            else if (textlines[current_line][0] == 'S') //S = shocked
+            {
+                NPCneutral.SetActive(false);
+                NPCembarrased.SetActive(false);
+                NPCshocked.SetActive(true);
+            }
+            else if (textlines[current_line][0] == 'N') //N = neutral
+            {
+                NPCneutral.SetActive(true);
+                NPCembarrased.SetActive(false);
+                NPCshocked.SetActive(false);
+            }
+        }
         else
         {
             Rubyannoyed.SetActive(false);
@@ -251,6 +313,10 @@ public class TextBoxManager : MonoBehaviour
             ToastAngry.SetActive(false);
             ToastSad.SetActive(false);
             Toastcat.SetActive(false);
+
+            NPCneutral.SetActive(false);
+            NPCembarrased.SetActive(false);
+            NPCshocked.SetActive(false);
         }
     }
 }

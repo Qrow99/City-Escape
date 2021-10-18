@@ -24,6 +24,7 @@ public class ActivateTextatLine : MonoBehaviour
     void Start()
     {
         TextBox = FindObjectOfType<TextBoxManager>();
+        
     }
 
     // Update is called once per frame

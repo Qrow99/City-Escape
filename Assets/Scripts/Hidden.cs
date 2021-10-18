@@ -12,13 +12,19 @@ public class Hidden : MonoBehaviour
     }
     public void OnTriggerEnter2D(Collider2D other)
     {
-        print("Safe");
-        theworld.Cover = true;
+        if (other.name == "player")
+        {
+            print("Safe");
+            theworld.Cover = true;
+        }
     }
 
     public void OnTriggerExit2D(Collider2D other)
     {
-        print("out of cover");
-        theworld.Cover = false;
+        if(other.name == "player")
+        {
+            print("out of cover");
+            theworld.Cover = false;
+        }
     }
 }

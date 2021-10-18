@@ -21,8 +21,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Itch Background.unity
     guid: 0f68b7a86076815489d094524c57251c
   - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: b691a958ec099fa44b3955e001bff7df
+  - enabled: 1
     path: Assets/Scenes/Dog room.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: e43e450b6a1bd764dbfce535c7e20dbb
   - enabled: 1
     path: Assets/Scenes/Wiring Puzzle.unity
     guid: c6e237c1e9456e2478489dd8e46a466b
@@ -32,6 +38,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Mind Palace.unity
     guid: 6496698850432e143b2551766498b41f
+  - enabled: 1
+    path: Assets/Scenes/Mind Uplink (return).unity
+    guid: d15f2b20258ffe84dadf524cb38c6c4c
   - enabled: 1
     path: Assets/Scenes/Mnd Uplink.unity
     guid: 4c11b35ba169b6d439c3f3676530f2bd

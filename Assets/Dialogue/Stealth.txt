@@ -1,30 +1,28 @@
 0 *CLICK*
 A Ruby: NPC WHERE THE HELL ARE YOU!?
-0 NPC: Oh god not again please don't yell at me any-
+S NPC: Oh God not again, please don't yell at me
 0 *RATATATATATA* 
-0 NPC: Wait… is everything ok?
+N NPC: Wait… is everything ok?
 A Ruby: Get inside, quick! We’re going down!
-0 NPC: Going down?!?! 
-0 NPC:...
-0 NPC: Ruby?
-S T0ast3r: Ruby has been rendered unconscious. 
-W T0ast3r: I recommend proceeding further into the base to ensure your safety.
-0 NPC: Where's Ruby? Is she gonna be ok? I need to help her!
-S T0ast3r: Her mech has collapsed onto the base. You will not be able to reach it from here.
-N T0ast3r: If you want to help, go to the link center.
-0 NPC: A link what?
-N T0ast3r: All pilots have a neural link to their mech for better control. 
-N T0ast3r: You may be able to link yourself to her and force her awake. 
-0 NPC:Something about that sounds... dangerous
-A T0ast3r: It is the only option you have, if you leave her, you will both die.
-0 NPC:...
-0 NPC:...
-0 NPC: Fine I’ll give it a shot I guess. 
-N T0ast3r: Good choice NPC. Now proceed through the door down the hall to the right.
+S NPC: Going down?!?! 
+N NPC: ...
+N NPC: Ruby?
+S T0ast3r: Lieutenant Ruby has been rendered unconscious. 
+S T0ast3r: Her mech has collapsed onto the base.
+N T0ast3r: I recommend proceeding further into the base and searching for the LEO. 
+N T0ast3r: It might still be functional for take off. 
+S NPC: But what about Ruby? I can’t just leave her here!
+A T0ast3r: ...Alright, if you wish to help Lieutenant Ruby, go to the link center.
+N T0ast3r: All pilots have a neural link to their mech to facilitate movement. 
+N T0ast3r: You can awaken a pilot by reactivating the link to her mech.
+N NPC: ...
+N NPC: ...
+S NPC: Fine I’ll give it a shot I guess. 
+N T0ast3r: Proceed through the door down the hall to the right.
 W T0ast3r: Be careful. Without Ruby to fight the monster, it will be looking for you. 
 W T0ast3r: Its eyes have a distinct glow, try to avoid strange lights. 
-0 NPC: Oh fun now it wants to eat me, loving that.
+S NPC: Oh fun, now it wants to eat me, loving that.
 N T0ast3r: I am unsure if the monster will eat you, it's more likely to-.
-0 NPC: AH no please don't say anything else... just wish me luck.
-C T0ast3r: I would, but you do not appear to be ‘Lucky’.
+S NPC: AH no please don't say anything else... just wish me luck.
+C T0ast3r: I would, but you do not appear to be ‘lucky’.
 

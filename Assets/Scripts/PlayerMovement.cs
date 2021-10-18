@@ -33,10 +33,11 @@ public class PlayerMovement : MonoBehaviour
         transform.position = Vector3.MoveTowards(transform.position, movepoint.position, movement_speed * Time.fixedDeltaTime);
         if (Vector3.Distance(transform.position, movepoint.position) <= 0f)
         {
-            movement.x = Input.GetAxisRaw("Horizontal");
-            movement.y = Input.GetAxisRaw("Vertical");
-            if (Mathf.Abs(Input.GetAxisRaw("Horizontal")) == 1f)
+            movement.x = 0;
+            movement.y = 0;
+            if (Mathf.Abs(Input.GetAxisRaw("Horizontal")) == 1f && !(Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f))
             {
+                movement.x = Input.GetAxisRaw("Horizontal");
                 if (!(Physics2D.OverlapCircle(movepoint.position + new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f), 0.2f, Walls)))
                 {
                     if ((Physics2D.OverlapCircle(movepoint.position + new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f), 0.2f, Pushable)))
@@ -53,8 +54,9 @@ public class PlayerMovement : MonoBehaviour
                     }
                 }
             }
-            else if (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f)
+            else if (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f && !(Mathf.Abs(Input.GetAxisRaw("Horizontal")) == 1f))
             {
+                movement.y = Input.GetAxisRaw("Vertical");
                 if (!(Physics2D.OverlapCircle(movepoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), 0.2f, Walls)))
                 {
                     if ((Physics2D.OverlapCircle(movepoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), 0.2f, Pushable)))

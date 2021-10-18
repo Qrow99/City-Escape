@@ -1,0 +1,52 @@
+N NPC: Toaster is this the place?
+N T0ast3r: Yes, you will need to find Ruby’s spare helmet to access her link. 
+W T0ast3r: Be careful, linking with a dead pilot will cause you to die as well. 
+W T0ast3r: That gives you a 33% chance of success. 
+E NPC: Do you, uh, know which one is Ruby’s?
+C T0ast3r: ...
+N NPC: ...
+S NPC: How do you not know this! She’s your pilot!
+A T0ast3r: Mind uplinks don't work on AI NPC, I’ve never even been in here.
+N NPC: Oh uh...ok well that's... unfortunate. I guess I'll start looking.
+
+N T0ast3r: Have you decided? Good now, remain still and hope for the best. 
+E NPC: What do you mean by that? Is this gonna hurt?
+C T0ast3r: ...
+N NPC: Uh toast?
+N T0ast3r: I wish you the best of luck Nathaniel.
+S NPC: Wait does that mean it's ba-AAAAAGHHHHHHHH!
+
+S NPC: Ugh do I really have to go back? Fiiine...
+
+S NPC: Wha- oh thank god I'm alive!!
+C T0ast3r: Welcome back Nathaniel. Were you successful?
+E NPC: Uh maybe? Let's find out. 
+0 *CLICK*
+N NPC: Ruby? Ruby, are you awake? 
+N Ruby: Hm? Toast? Ugh what the hell happened?
+A Ruby: God, my head. Toast, how long have I been out? 
+S T0ast3r: You have been unconscious for an hour Lieutenant Ruby. 
+C T0ast3r: Nathaniel, foolishly if I may add, used the uplink system to wake you. 
+P Ruby: HE WHAT!?
+S NPC: Wait! Don’t kill me! I did it because I didn’t want you to be monster chow!
+P Ruby: ...You didn't see anything in there did you? 
+E NPC: Huh? Oh uh nothing M-Ma’am, uh Ruby.
+E NPC: Yup! I didn't see anything at all! Nope, zilch, zero, none, nada, not a-
+A Ruby: Ugh do you ever shut up dude? We don’t have time for this. 
+N Ruby: Toast, find that monster. Send it to my nav system. 
+N Ruby: NPC, get the Leo ready. I’ve got some unfinished business here...
+N NPC: Ok I can do that.
+N Ruby: Radio when the rocket is primed and I’ll try to get to you so we can leave.
+0 *CLICK*
+S NPC: Yeah right. After what I saw, she's gonna stay here to die once I leave.
+N NPC: Toaster?
+C T0ast3r: I am assuming you wish to aid Lieutenant Ruby. 
+E NPC: Didn’t think you’d act without Ruby’s direction, Toaster. 
+A T0ast3r: I will assist you, as I do not believe you will listen to me. 
+E NPC: Couldn’t have said it better. Now tell me, what’s the biggest gun here? 
+A T0ast3r: The magnetic rail cannon. It's offline due to evacuation protocols. 
+E T0ast3r: But you'll pass through its power room on the way to the LEO. 
+N NPC: What will I need to activate it?
+N T0ast3r: Just push a power battery into place, I can prime it.
+N T0ast3r: Then I'll reunite with you and Ruby.
+N Nate: Good. After all she’s done, this is the least I can do.

@@ -1,0 +1,34 @@
+0 Ruby: Ugh again with the rations? 
+0 Ruby: Can’t they send us out with something edible for once?
+0 Matt: Nah, the good stuff is for the Higher-ups.
+0 Matt: Until we finish training, its mystery meat for us.
+0 Eliza: But, these are somehow worse than usual. 
+0 Eliza: I didn't even know that was possible...
+0 John: You got a problem, take it up with the quartermaster. I’m just happy to eat.
+0 Eliza: Absolutely not, he’d chew my ear off! 
+0 Matt: Yeah, then he'd mix that ear in with tomorrow’s rations.
+0 John: Eh, food's food. We want the good stuff, we’ve gotta earn it. 
+0 Matt: Do you ever complain? Like about anything? 
+0 Ruby: He might explode if he does.
+0 John: I would not! 
+0 Ruby: Oh really? Try it then! Complain about something, just once.
+0 John: ...
+0 Matt: ...
+0 Eliza: ...
+0 Ruby: Huh, maybe he would explode...?
+0 Matt: You're a real stickler, ya know that John? 
+0 Matt: C’mon dude, at least defend yourself.
+0 Eliza: Go easy on him will you. It’s not like he needs a spine for his job.
+0 Eliza: Oh wait...
+0 Ruby: Jokes aside, are you sure you’re cut out for being a pilot Johan? 
+0 Ruby: We don’t exactly have a textbook in the mech. 
+0 John: Well I’ll have you three to give me orders. 
+0 Matt: Let's be real, I think the little princess will do most of the ordering. 
+0 Ruby: Watch it kid.
+0 Matt: Whaddaya mean kid, I’m older than you!
+0 Eliza: Yet you talk like a child. 
+0 Eliza: Ruby’s position has nothing to do with her father and you know it.
+0 Eliza: I think that as long as she’s leading us, we will do just fine.
+0 Matt: Damn and I thought John was a kiss-ass.
+0 Eliza: Come again?
+0 Matt: Er n-nothing Ma’am!

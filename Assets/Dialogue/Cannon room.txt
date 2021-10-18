@@ -1,0 +1,28 @@
+W T0ast3r: NPC, the cannon is primed. 
+W T0ast3r: I am going to use Ruby’s mech to aim it.
+0 *CLICK*
+P Ruby: Hey Toast, buddy, uh why is the MAC cannon pointing at me? 
+W T0ast3r: Nate is going to fire it so you have time to join us on the LEO.
+W T0ast3r: We are going to use your mech to help aim.
+A Ruby: What!? But this is MY fight and I’ve gotta finish it!
+S Nate: Ruby look, I lied, I saw everything. 
+S Nate: I didn’t know your team, but I don't think they’d want you to die for revenge.
+S Nate: Now get out of the robot so we can get out of here!
+0 Ruby: ...
+N Nate: Ruby?
+A Ruby: Ok, fine! I’m on the way. I’ll see you there.
+E Nate: Good! And when we get somewhere safe, I’ll buy you a drink! 
+S Nate: Toast, are we ready to fire?
+N T0ast3r: Almost, once Ruby enters a safe distance, I will fire. 
+N T0ast3r: Her mech has latched itself to the monster’s tail.
+A T0ast3r: The cannon is almost guaranteed to hit the monster.
+W T0ast3r: However, until I fire, the monster will be looking for you and Ruby.
+
+P Ruby: What took ya so long NPC?
+S Nate: Oh c’mon I'm about to save your life! Could you at least call me Nate?
+N Ruby: Roger that NPC.
+S Nate: Ugh why did I save you.
+
+C T0ast3r: That did it! Cannon is Charging.
+E Nate: Oh that thing was the battery? I was just moving it.
+E Nate: I mean uh... Fire when ready Toast!

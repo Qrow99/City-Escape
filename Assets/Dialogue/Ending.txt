@@ -1,0 +1,25 @@
+W T0ast3r: You may lose consciousness, 
+W T0ast3r: as neither of you have undergone g-force training.
+E Nate: Sorry what?
+P Ruby: It's fine Toast, just get us outta here!
+W T0ast3r: Launch will begin in 5
+N Nate: Uh should we be worried about what Toast said?
+W T0ast3r: 4...
+A Ruby: Nah you’ll be fine!
+W T0ast3r: 3...
+N Ruby: ...probably...
+W T0ast3r: 2...
+S Nate: PROBABLY!?
+W T0ast3r: 1...
+N T0ast3r: We have lift-off.
+N T0ast3r: We have entered the thermosphere. Adjusting course for friendly territory.
+N Ruby: Ugh about damn time. I hope I never see that place again.
+A Ruby: Hm? Wait. Where's the orbital strike?
+N T0ast3r: Transmissions suggest that your father has delayed the orbital strike. 
+N T0ast3r: It will begin in 5 minutes.
+N Ruby: Oh my god, I’m never asking dad for a favor again…
+P Ruby: Speaking of favors, Nate? 
+E Nate: Why am I suddenly terrified?
+P Ruby: Don’t think I forgot about you messing with my head, asshole!
+A Ruby: You owe me when we land!
+E Nate: Ugh of all the pilots that could’ve saved me...

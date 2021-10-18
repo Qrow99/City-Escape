@@ -1,0 +1,16 @@
+0 Dad: Ok now take a deep breath, line the back sight with the front.
+0 Ruby: C'mon dad, I've done this so many times already.
+0 Dad: I know, I know. You're an expert, right Rue?
+0 Dad: Steady. Take a deep breath and fire when you’re ready.
+0 *BANG*
+0 Dad: Well I’ll be damned, you’re getting better kiddo.
+0 Dad: At this rate, you’d give some of my top marksmen a run for their money.
+0 Ruby: Maybe you should make me an instructor then?
+0 Dad: Might wanna give it another few years kiddo. 
+0 Dad: But I think I’ll let you keep the gun, you seem to know what you're doing.
+0 Dad: Careful with it though.
+0 Dad: It was a gift from your mother... to keep you safe. 
+0 Dad: Promise me you'll be safe with it.
+0 Ruby: I will dad. I promise.
+S NPC: AH! what was that? A memory? 
+N NPC: Dammit Toast, at least tell me what to do before shoving me in her head.

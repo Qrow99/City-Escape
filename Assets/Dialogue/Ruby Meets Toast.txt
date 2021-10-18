@@ -1,0 +1,21 @@
+0 Engineer: Alright miss uh... Ruby? Is it? We’ll be pairing you with an AI today. 
+0 Engineer: You’ve completed the link process correct?
+0 Ruby: Yeah, took care of it yesterday. 
+0 Engineer: Good, recent links tend to be stronger, the timing’s perfect.
+0 Ruby: Oh do I get to pick the shell? Can I customize it? I want a pink one!
+0 Engineer: Whoa slow down pal, we don’t have the budget for all that.
+0 Engineer: You and the other pilots get the same shell for your AI.
+0 Ruby: Aw what? My 200 ton death machine has customization options!
+0 Ruby: Why not the sentient box?
+0 Engineer: ...Ugh don’t let my boss know I told you this,
+0 Engineer: but technically, nothing stops you from customizing it yourself.
+0 Ruby: Well yay me. Hmm… What model are these?
+0 Engineer: It's a “T0 Automatic Support Terminal”.
+0 Engineer: Yours will be designated 3R.
+0 Ruby: Ugh that name’s so long, Hmm... T, 0, A...
+0 Ruby: Ah got it! I'm calling it Toaster.
+0 Engineer: One of the most complex pieces of technology mankind has ever made
+0 Engineer: and your gonna name it after a device that heats bread?
+0 Ruby: Yup, T0 automatic whatever aint gonna cut it, it's just not cute enough!
+0 Engineer: Ugh… oh well, makes no difference to me. 
+0 Engineer: I'm just the maintenance guy.

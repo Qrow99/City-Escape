@@ -1,0 +1,2820 @@
+fileFormatVersion: 2
+guid: fe8642e6c827eb14597f4684163cf58d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2819700178684362317
+    second: Hotel 4_0
+  - first:
+      213: -3479709651115602938
+    second: Hotel 4_1
+  - first:
+      213: 5899167752202812364
+    second: Hotel 4_2
+  - first:
+      213: 8303951653620806178
+    second: Hotel 4_3
+  - first:
+      213: -5232561912553863507
+    second: Hotel 4_4
+  - first:
+      213: -7570889850035936492
+    second: Hotel 4_5
+  - first:
+      213: -94755699688670685
+    second: Hotel 4_6
+  - first:
+      213: -5761849767315860605
+    second: Hotel 4_7
+  - first:
+      213: 3540132224229978195
+    second: Hotel 4_8
+  - first:
+      213: 4566123396862947141
+    second: Hotel 4_9
+  - first:
+      213: -3657383008866687624
+    second: Hotel 4_10
+  - first:
+      213: -8614001622275388197
+    second: Hotel 4_11
+  - first:
+      213: 4947177734970705471
+    second: Hotel 4_12
+  - first:
+      213: -4651845349923865122
+    second: Hotel 4_13
+  - first:
+      213: 8421378750308234265
+    second: Hotel 4_14
+  - first:
+      213: -4837634048692302032
+    second: Hotel 4_15
+  - first:
+      213: -282939280952651158
+    second: Hotel 4_16
+  - first:
+      213: 4413388847147459709
+    second: Hotel 4_17
+  - first:
+      213: 1398525741339736774
+    second: Hotel 4_18
+  - first:
+      213: -623308661881087415
+    second: Hotel 4_19
+  - first:
+      213: -4133371929918403885
+    second: Hotel 4_20
+  - first:
+      213: -4201057731426048740
+    second: Hotel 4_21
+  - first:
+      213: 2963882807910396282
+    second: Hotel 4_22
+  - first:
+      213: 8695946473403416635
+    second: Hotel 4_23
+  - first:
+      213: -1353609532903299973
+    second: Hotel 4_24
+  - first:
+      213: 6796100612018483208
+    second: Hotel 4_25
+  - first:
+      213: 6129689949597211063
+    second: Hotel 4_26
+  - first:
+      213: -6436075774630107725
+    second: Hotel 4_27
+  - first:
+      213: -5967677051699613357
+    second: Hotel 4_28
+  - first:
+      213: 317322097549587373
+    second: Hotel 4_29
+  - first:
+      213: 6176565671083261901
+    second: Hotel 4_30
+  - first:
+      213: -5102353864664155649
+    second: Hotel 4_32
+  - first:
+      213: -8875256193702888458
+    second: Hotel 4_33
+  - first:
+      213: 7534433870669049701
+    second: Hotel 4_34
+  - first:
+      213: -2712979962015966133
+    second: Hotel 4_35
+  - first:
+      213: 2062738120730222111
+    second: Hotel 4_36
+  - first:
+      213: -795001956846505870
+    second: Hotel 4_37
+  - first:
+      213: -6276198804569361326
+    second: Hotel 4_38
+  - first:
+      213: 2116733089164276968
+    second: Hotel 4_39
+  - first:
+      213: 1440610740774657815
+    second: Hotel 4_40
+  - first:
+      213: -4364983227707331323
+    second: Hotel 4_41
+  - first:
+      213: 2484506360699456440
+    second: Hotel 4_42
+  - first:
+      213: 3584165983404478006
+    second: Hotel 4_45
+  - first:
+      213: 6671339243554532466
+    second: Hotel 4_46
+  - first:
+      213: -5342957351836305164
+    second: Hotel 4_47
+  - first:
+      213: -235760522875895238
+    second: Hotel 4_48
+  - first:
+      213: 7074122770118791206
+    second: Hotel 4_49
+  - first:
+      213: -315258121432585385
+    second: Hotel 4_50
+  - first:
+      213: 2845703397304693426
+    second: Hotel 4_51
+  - first:
+      213: 3962231653871871082
+    second: Hotel 4_53
+  - first:
+      213: 2587031250415279848
+    second: Hotel 4_54
+  - first:
+      213: 8173350269845395136
+    second: Hotel 4_55
+  - first:
+      213: -4345613747094720710
+    second: Hotel 4_58
+  - first:
+      213: 5466408819418064018
+    second: Hotel 4_59
+  - first:
+      213: -6481725045513484948
+    second: Hotel 4_60
+  - first:
+      213: 7913173303896882390
+    second: Hotel 4_61
+  - first:
+      213: -2719459222019034346
+    second: Hotel 4_62
+  - first:
+      213: 5297055096168486576
+    second: Hotel 4_63
+  - first:
+      213: -2723425525905624711
+    second: Hotel 4_64
+  - first:
+      213: 2818102966337865300
+    second: Hotel 4_65
+  - first:
+      213: 496772248525709651
+    second: Hotel 4_66
+  - first:
+      213: -3826673479480446218
+    second: Hotel 4_67
+  - first:
+      213: 5058463523018491952
+    second: Hotel 4_68
+  - first:
+      213: 5688948093272052570
+    second: Hotel 4_69
+  - first:
+      213: -8764556877120735579
+    second: Hotel 4_70
+  - first:
+      213: -3974027603602636002
+    second: Hotel 4_71
+  - first:
+      213: -4027490451968090838
+    second: Hotel 4_72
+  - first:
+      213: -3702840569092844436
+    second: Hotel 4_73
+  - first:
+      213: 4875532610854101772
+    second: Hotel 4_74
+  - first:
+      213: -5733710808945528033
+    second: Hotel 4_75
+  - first:
+      213: -8685858495630600328
+    second: Hotel 4_76
+  - first:
+      213: -318697292530439624
+    second: Hotel 4_77
+  - first:
+      213: -8644551173479224699
+    second: Hotel 4_78
+  - first:
+      213: -2255296801493365330
+    second: Hotel 4_79
+  - first:
+      213: -3801801116108505312
+    second: Hotel 4_80
+  - first:
+      213: -7507232061602950096
+    second: Hotel 4_81
+  - first:
+      213: -3187670317497067423
+    second: Hotel 4_82
+  - first:
+      213: -5564910064624761471
+    second: Hotel 4_83
+  - first:
+      213: 3197030636384052225
+    second: Hotel 4_84
+  - first:
+      213: 6512308130434147042
+    second: Hotel 4_85
+  - first:
+      213: -3699513228477613259
+    second: Hotel 4_86
+  - first:
+      213: 6293071550390831971
+    second: Hotel 4_87
+  - first:
+      213: -6384219509665620517
+    second: Hotel 4_88
+  - first:
+      213: 7679807726703000613
+    second: Hotel 4_89
+  - first:
+      213: 781453848166943280
+    second: Hotel 4_90
+  - first:
+      213: 1785795528201175764
+    second: Hotel 4_91
+  - first:
+      213: 6130490861164465646
+    second: Hotel 4_92
+  - first:
+      213: 7338867072083807072
+    second: Hotel 4_93
+  - first:
+      213: -4373524605130077035
+    second: Hotel 4_94
+  - first:
+      213: -1842703388526620505
+    second: Hotel 4_95
+  - first:
+      213: -4380009805852600726
+    second: Hotel 4_96
+  - first:
+      213: 3253629339798190439
+    second: Hotel 4_97
+  - first:
+      213: -9167926076198226716
+    second: Hotel 4_98
+  - first:
+      213: 3292141273734350516
+    second: Hotel 4_99
+  - first:
+      213: -1684421976343745670
+    second: Hotel 4_100
+  - first:
+      213: 7528221241327145954
+    second: Hotel 4_101
+  - first:
+      213: 8080732123122218986
+    second: Hotel 4_102
+  - first:
+      213: 553889926749715526
+    second: Hotel 4_103
+  - first:
+      213: -1321938605795313711
+    second: Hotel 4_104
+  - first:
+      213: -7543134499168232444
+    second: Hotel 4_105
+  - first:
+      213: 6126523710559504485
+    second: Hotel 4_106
+  - first:
+      213: -6209658953588420726
+    second: Hotel 4_107
+  - first:
+      213: 7982350467483763856
+    second: Hotel 4_108
+  - first:
+      213: -3987724162836232617
+    second: Hotel 4_109
+  - first:
+      213: -1592180523978385093
+    second: Hotel 4_110
+  - first:
+      213: 4019392381026165461
+    second: Hotel 4_111
+  - first:
+      213: -4396501246083530344
+    second: Hotel 4_112
+  - first:
+      213: 8200770315270716679
+    second: Hotel 4_113
+  - first:
+      213: -6116876999357236333
+    second: Hotel 4_114
+  - first:
+      213: -8608271833692675065
+    second: Hotel 4_115
+  - first:
+      213: 4019431408540806819
+    second: Hotel 4_116
+  - first:
+      213: 7759335788035967857
+    second: Hotel 4_117
+  - first:
+      213: -2981926349023662046
+    second: Hotel 4_118
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hotel 4_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e36938f56912720800000000000000
+      internalID: 2819700178684362317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c81c3328695bfc0800000000000000
+      internalID: -3479709651115602938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbfc74c0dd0ed150800000000000000
+      internalID: 5899167752202812364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f51268009d3370800000000000000
+      internalID: 8303951653620806178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da60df0f9a43267b0800000000000000
+      internalID: -5232561912553863507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4136ffe2bcbcee690800000000000000
+      internalID: -7570889850035936492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32afc93713c5faef0800000000000000
+      internalID: -94755699688670685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38398f90a2cc900b0800000000000000
+      internalID: -5761849767315860605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_8
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35034236083112130800000000000000
+      internalID: 3540132224229978195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_9
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fad9e79012e5f30800000000000000
+      internalID: 4566123396862947141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_10
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a3f4f78d5e3dc0800000000000000
+      internalID: -3657383008866687624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_11
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc03a9d92be47880800000000000000
+      internalID: -8614001622275388197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_12
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3686ad40f7e7a440800000000000000
+      internalID: 4947177734970705471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_13
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1099
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd3cbffc43517fb0800000000000000
+      internalID: -4651845349923865122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9143523ea5fbed470800000000000000
+      internalID: 8421378750308234265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4c5ea6754ddcb0800000000000000
+      internalID: -4837634048692302032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6210d9193cc21cf0800000000000000
+      internalID: -282939280952651158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7425e9f5c18f3d30800000000000000
+      internalID: 4413388847147459709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_18
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca7bc580cf886310800000000000000
+      internalID: 1398525741339736774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_19
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a572f03109957f0800000000000000
+      internalID: -623308661881087415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_20
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da84a8112053a6c0800000000000000
+      internalID: -4133371929918403885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15217d5048d2b5c0800000000000000
+      internalID: -4201057731426048740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_22
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71f261e5b3d12920800000000000000
+      internalID: 2963882807910396282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_23
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3085059e353ea870800000000000000
+      internalID: 8695946473403416635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_24
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7467b23d43073de0800000000000000
+      internalID: -1353609532903299973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_25
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8003d25df79905e50800000000000000
+      internalID: 6796100612018483208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_26
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9160d5888011550800000000000000
+      internalID: 6129689949597211063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_27
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 973
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5eca9ce277ea6a0800000000000000
+      internalID: -6436075774630107725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351b13fe65d8e2da0800000000000000
+      internalID: -5967677051699613357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da333d734ca576400800000000000000
+      internalID: 317322097549587373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_30
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf3ac4c0c197b550800000000000000
+      internalID: 6176565671083261901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9f95a813cc039b0800000000000000
+      internalID: -5102353864664155649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_33
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf0c3d381c4d480800000000000000
+      internalID: -8875256193702888458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_34
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f66ecafafaf8860800000000000000
+      internalID: 7534433870669049701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_35
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c1949391f895ad0800000000000000
+      internalID: -2712979962015966133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_36
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e18c6546150ac10800000000000000
+      internalID: 2062738120730222111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_37
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707c6eaee597f4f0800000000000000
+      internalID: -795001956846505870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 846
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25479e1a07676e8a0800000000000000
+      internalID: -6276198804569361326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4b3f79785206d10800000000000000
+      internalID: 2116733089164276968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f5c7706d31ef310800000000000000
+      internalID: 1440610740774657815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_41
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d67fd81e67c63c0800000000000000
+      internalID: -4364983227707331323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_42
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 847
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb80bf1f5dba7220800000000000000
+      internalID: 2484506360699456440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eccd0e8f38db130800000000000000
+      internalID: 3584165983404478006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 720
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ce03c12bb559c50800000000000000
+      internalID: 6671339243554532466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f83cb1c8900ad5b0800000000000000
+      internalID: -5342957351836305164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_48
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a320ce5bd096abcf0800000000000000
+      internalID: -235760522875895238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_49
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620de6add255c2260800000000000000
+      internalID: 7074122770118791206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_50
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b247ba86aff9bf0800000000000000
+      internalID: -315258121432585385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_51
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f774a928fd7720800000000000000
+      internalID: 2845703397304693426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_53
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6467d642bcacf630800000000000000
+      internalID: 3962231653871871082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_54
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee56df273bf6e320800000000000000
+      internalID: 2587031250415279848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_55
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c65af224c29d6170800000000000000
+      internalID: 8173350269845395136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_58
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6d51325741b3c0800000000000000
+      internalID: -4345613747094720710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_59
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294e976ebd59cdb40800000000000000
+      internalID: 5466408819418064018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_60
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c658a6aa9694c06a0800000000000000
+      internalID: -6481725045513484948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_61
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 721
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcb0e0b13d31dd60800000000000000
+      internalID: 7913173303896882390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6133562fe3a824ad0800000000000000
+      internalID: -2719459222019034346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_63
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69bc28b8be28940800000000000000
+      internalID: 5297055096168486576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f92cd9e2743ad0800000000000000
+      internalID: -2723425525905624711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_65
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4560b0987b9eb1720800000000000000
+      internalID: 2818102966337865300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_66
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351a5af5ab3e4e600800000000000000
+      internalID: 496772248525709651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_67
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2f828bebce4eac0800000000000000
+      internalID: -3826673479480446218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_68
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038c9c6f5c5433640800000000000000
+      internalID: 5058463523018491952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_69
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53dd15462433fe40800000000000000
+      internalID: 5688948093272052570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_70
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f285f4f90e5680800000000000000
+      internalID: -8764556877120735579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_71
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e130ba723fa69d8c0800000000000000
+      internalID: -3974027603602636002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_72
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1a22c5ca7b18c0800000000000000
+      internalID: -4027490451968090838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_73
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64d053fe1edc9cc0800000000000000
+      internalID: -3702840569092844436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_74
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03aac0f31f59a340800000000000000
+      internalID: 4875532610854101772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_75
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 595
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13fbf3d564cd60b0800000000000000
+      internalID: -5733710808945528033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87711a6c7b1a57780800000000000000
+      internalID: -8685858495630600328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a28df3082c39bf0800000000000000
+      internalID: -318697292530439624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_78
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa51e2282680880800000000000000
+      internalID: -8644551173479224699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_79
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc9e3128393b0e0800000000000000
+      internalID: -2255296801493365330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_80
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f3ba7170a4d3bc0800000000000000
+      internalID: -3801801116108505312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_81
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0349bb90734f0d790800000000000000
+      internalID: -7507232061602950096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_82
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d7883cbe13c3d0800000000000000
+      internalID: -3187670317497067423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_83
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1858b07c7c775c2b0800000000000000
+      internalID: -5564910064624761471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_84
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10466b9dc622e5c20800000000000000
+      internalID: 3197030636384052225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_85
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26a6eadbd506a50800000000000000
+      internalID: 6512308130434147042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_86
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bbbbec150b8acc0800000000000000
+      internalID: -3699513228477613259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_87
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b8923ab3b755750800000000000000
+      internalID: 6293071550390831971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_88
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd13465e22b667a0800000000000000
+      internalID: -6384219509665620517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_89
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cbe652078249a60800000000000000
+      internalID: 7679807726703000613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a4a54722848da00800000000000000
+      internalID: 781453848166943280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_91
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d289e3429b68c810800000000000000
+      internalID: 1785795528201175764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_92
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed8c7e15f0e31550800000000000000
+      internalID: 6130490861164465646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_93
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bcd5518b4e8d560800000000000000
+      internalID: 7338867072083807072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_94
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c8ac62b8e1e43c0800000000000000
+      internalID: -4373524605130077035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_95
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0567cf7076d66e0800000000000000
+      internalID: -1842703388526620505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_96
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a669d61b9441733c0800000000000000
+      internalID: -4380009805852600726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769b57565a6372d20800000000000000
+      internalID: 3253629339798190439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_98
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4f925becbf4c080800000000000000
+      internalID: -9167926076198226716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_99
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b68653cb0900bd20800000000000000
+      internalID: 3292141273734350516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_100
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b6b20132bbf98e0800000000000000
+      internalID: -1684421976343745670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_101
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3dadf255d997860800000000000000
+      internalID: 7528221241327145954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_102
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b9cb6d07842070800000000000000
+      internalID: 8080732123122218986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_103
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 343
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c759824ffcfa700800000000000000
+      internalID: 553889926749715526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7f1ba87d787ade0800000000000000
+      internalID: -1321938605795313711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_105
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c55146327615790800000000000000
+      internalID: -7543134499168232444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56848e3ead8c50550800000000000000
+      internalID: 6126523710559504485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_107
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc907f41cd2d9a0800000000000000
+      internalID: -6209658953588420726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_108
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940b07357107ce60800000000000000
+      internalID: 7982350467483763856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_109
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75687e37002c8a8c0800000000000000
+      internalID: -3987724162836232617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_110
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3919f9cf3077e9e0800000000000000
+      internalID: -1592180523978385093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_111
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e9fb2310c7c730800000000000000
+      internalID: 4019392381026165461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_112
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89101ac096d7cf2c0800000000000000
+      internalID: -4396501246083530344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_113
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d7746f62dfec170800000000000000
+      internalID: 8200770315270716679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_114
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bfd8617cc7c1ba0800000000000000
+      internalID: -6116876999357236333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_115
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7046fb63066498880800000000000000
+      internalID: -8608271833692675065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_116
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6f19f193e7c730800000000000000
+      internalID: 4019431408540806819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_117
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 217
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b0cdad9c2beab60800000000000000
+      internalID: 7759335788035967857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel 4_118
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 91
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2203114d8c11e96d0800000000000000
+      internalID: -2981926349023662046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

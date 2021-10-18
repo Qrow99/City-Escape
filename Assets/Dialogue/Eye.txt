@@ -1,0 +1,29 @@
+0 Ruby: Matt flank left, John right, Liz you’re with me! 
+0 Ruby: We can’t let it reach the city! 
+0 Matt: Ruby I’m losing power fast! Think that thing breached my core. 
+0 John: Ruby! I’ll go left and take care of Matt. 
+0 Ruby: No! He can do it, just a little longer. 
+0 Eliza: Ruby listen to him! Matt can’t do this.
+0 Ruby: We've got it on the ropes! Just one more push!
+0 Matt: Crap! It’s got a hold of me. Guys help! Hel--
+0 Ruby: ...
+0 Ruby: ...John left, now! 
+0 Eliza: It’s too late! 
+0 John: Eliza the tail!
+0 John: Eliza?
+0 John: ...
+0 John: Alright you bastard, you’re mine.
+0 Ruby: Wait no! We need to stick together!
+0 John: Ruby! We already lost, just hurry back and defend the evac station. 
+0 John: I’m going to buy some time.
+0 Ruby: I’m sorry. I’m so sorry. 
+0 John: This is my job, don’t be--
+0 Ruby: ...
+S NPC: Holy... that's a lot to take in... is that why she’s still here?  
+S NPC: If I don’t stop her, she's gonna kill herself fighting that thing.
+N NPC: She was already beat-to-hell when I met her...
+S NPC: Aw crap, she’s gonna be so mad when she finds out what I saw.
+N NPC: Well, I'd take death by an angry lady over death by monster anyday. 
+N NPC: But if she wants to kill me, she's gotta survive first.
+N NPC: Hm? Did that door just open? Looks like one from the base...
+N NPC: Please be a way out of this creepy place.

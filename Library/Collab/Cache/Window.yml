@@ -14,11 +14,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/GameOver.cs
-    - Assets/Prefabs/Death.prefab
-    - Assets/Scenes/Stealth.unity
+    - Assets/Art/Tiles/Hospital 12.png.meta
+    - Assets/Dialogue/Cannon room.txt
+    - Assets/Dialogue/Ending.txt
+    - Assets/Dialogue/Eye.txt
+    - Assets/Dialogue/Lobby.txt
+    - Assets/Dialogue/MRE.txt
+    - Assets/Dialogue/Meeting Ruby.txt
+    - Assets/Dialogue/Mind Palace.txt
+    - Assets/Dialogue/Ruby Meets Toast.txt
+    - Assets/Dialogue/Stealth.txt
+    - Assets/Dialogue/Uplink room.txt
+    - Assets/Dialogue/Wire puzzle.txt
+    - Assets/Scenes/Cannon.unity
+    - Assets/Scenes/Start Room.unity
     - 
-    m_Values: 00000000
+    m_Values: 000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

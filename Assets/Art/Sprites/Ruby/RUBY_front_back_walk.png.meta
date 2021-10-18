@@ -26,6 +26,9 @@ TextureImporter:
   - first:
       213: -5020957042170510236
     second: RUBY_front_back_walk_7
+  - first:
+      213: 3592069247987795072
+    second: RUBY_front_back_walk_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -47,6 +50,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -69,7 +73,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 25
+  spritePixelsToUnits: 275
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -78,9 +82,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -138,10 +145,10 @@ TextureImporter:
       name: RUBY_front_back_walk_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 57
-        width: 17
-        height: 38
+        x: 0
+        y: 1188
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +166,10 @@ TextureImporter:
       name: RUBY_front_back_walk_1
       rect:
         serializedVersion: 2
-        x: 27
-        y: 56
-        width: 19
-        height: 38
+        x: 36
+        y: 708
+        width: 252
+        height: 456
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,10 +187,10 @@ TextureImporter:
       name: RUBY_front_back_walk_2
       rect:
         serializedVersion: 2
-        x: 50
-        y: 57
-        width: 19
-        height: 38
+        x: 312
+        y: 708
+        width: 276
+        height: 456
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,10 +208,10 @@ TextureImporter:
       name: RUBY_front_back_walk_3
       rect:
         serializedVersion: 2
-        x: 77
-        y: 56
-        width: 19
-        height: 38
+        x: 612
+        y: 708
+        width: 252
+        height: 456
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,10 +229,10 @@ TextureImporter:
       name: RUBY_front_back_walk_4
       rect:
         serializedVersion: 2
-        x: 4
-        y: 4
-        width: 17
-        height: 38
+        x: 888
+        y: 708
+        width: 276
+        height: 456
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,10 +250,10 @@ TextureImporter:
       name: RUBY_front_back_walk_5
       rect:
         serializedVersion: 2
-        x: 28
-        y: 3
-        width: 20
-        height: 38
+        x: 36
+        y: 192
+        width: 252
+        height: 456
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +271,10 @@ TextureImporter:
       name: RUBY_front_back_walk_6
       rect:
         serializedVersion: 2
-        x: 54
-        y: 4
-        width: 17
-        height: 38
+        x: 312
+        y: 192
+        width: 276
+        height: 456
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,10 +292,10 @@ TextureImporter:
       name: RUBY_front_back_walk_7
       rect:
         serializedVersion: 2
-        x: 76
-        y: 3
-        width: 20
-        height: 38
+        x: 624
+        y: 192
+        width: 252
+        height: 456
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,6 +305,27 @@ TextureImporter:
       bones: []
       spriteID: 4644eec1c2af15ab0800000000000000
       internalID: -5020957042170510236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RUBY_front_back_walk_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 192
+        width: 276
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084caee03f799d130800000000000000
+      internalID: 3592069247987795072
       vertices: []
       indices: 
       edges: []

@@ -14,12 +14,18 @@ public class stealth : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D other)
     {
-        seen = true;
+        if(other.name == "player")
+        {
+            seen = true;
+        }
     }
 
     public void OnTriggerExit2D(Collider2D other)
     {
-        seen = false;
+        if(other.name  == "player")
+        {
+            seen = false;
+        }
     }
 
     public void Update()

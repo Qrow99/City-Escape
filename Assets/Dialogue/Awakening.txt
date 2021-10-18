@@ -1,6 +1,5 @@
-  ???: ow ow ow, what happened? My head… where am I?
-  ???: I remember I was running. Then something hit me...
+N ???: Ow ow ow, what happened? My head… where am I?
+N ???: I remember I was running. Then something hit me...
   *CRASH*
-  ???: God this place is falling apart, I gotta get out of here!
-
-  ???: Damn boulders wedged in, maybe I can push it from this side?
+N ???: God this place is falling apart, I gotta get out of here!
+0 To Move, use WASD or the arrow keys.

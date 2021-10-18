@@ -1,0 +1,23 @@
+N Ruby: NPC, have you reached the lobby?
+E NCP: Yeah, I just got down here. Is something wrong? 
+N Ruby: I bought us some time to brief you on the LEO. 
+W T0ast3r: Ruby, do you think he can handle the Low-Earth Orbit shuttle? 
+E NPC: Low...
+N NPC: Earth...
+S NPC: Orbit? 
+N T0ast3r: It is a military craft that can ascend to the upper atmosphere. 
+N T0ast3r: Normally, there is a training program required to handle the g-forces. 
+N T0ast3r: Due to our unusual situation, you will be using one to leave Neo-Venice.
+C T0ast3r: There is a 70% chance of successful lift off.
+W T0ast3r: There is a 30% chance of incineration upon atmospheric re-entry.
+N NPC: ...Oh, neat.
+N Ruby: What? Afraid of a couple of g’s? 
+S NPC: I mean I don’t want to burn to death!
+P Ruby: Oh you’ll be fine. This hospital is on a military base, 
+N Ruby: so the LEO is located in the basement.
+N Ruby: The orbital strike isn't even happening for a few hours. 
+S NPC: Wait, orbital strike?!?
+N Ruby: I can't kill this thing as is, and we can't let it leave the city, so yes. 
+P Ruby: It's out of my hands, the higher ups made the call.
+N Ruby: It’s a kinetic launch, no payload. We don’t need to worry about fallout.
+A Ruby: But it will wipe this city off the map. So get moving!
